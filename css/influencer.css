@@ -30,6 +30,10 @@
 
 }
 
+section{
+    margin-bottom: 6.25rem;
+}
+
 /* header >  nav and banner styles */
 
 header{
@@ -85,11 +89,11 @@ nav > ul > li > a{
 }
 
 #banner-btn{
-    border-radius: 41px;
+    border-radius: 2.56rem;
 }
 
 #arrow{
-    margin-left: 15px;
+    margin-left: 0.937rem;
 }
 
 .banner-image{
@@ -107,3 +111,16 @@ nav > ul > li > a{
 .image > img{
     width: 100%;
 }
+
+/* sponsors styles  */
+
+.sponsors{
+    max-width: 1110px;
+    padding: 2.5rem;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* collections sections styles */
+
